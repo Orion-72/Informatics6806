@@ -1,0 +1,3 @@
+The method I think I will use will be to post completed assignments directly through github
+at this point the steps to accomplish this is easier to manage
+perhaps in the future I will become more comfortable with VSC and use that more
